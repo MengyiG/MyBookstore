@@ -2,9 +2,9 @@
 
 ## This e-commerce bookstore was created for [CS5244: Web Application Development](https://cs.vt.edu/Graduate/Courses/GradCourseDescriptions.html) at Virginia Tech.
 
-<div align="center">
-  <iframe src="https://www.youtube.com/embed/mLELJDSgC5Q" title="YouTube video player"frameborder="0" allowfullscreen="true"> </iframe>
-</div>
+<figure align="center" class="video_container">
+  <iframe src="https://www.youtube.com/embed/mLELJDSgC5Q" title="YouTube video player" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 The source code for this project can not be made public owning to [VT academic Honor Code](https://honorsystem.vt.edu/). However, please feel free to reach out if you have any questions. :wink:
 
