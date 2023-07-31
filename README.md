@@ -2,7 +2,7 @@
 
 ## This e-commerce bookstore was created for [CS5244: Web Application Development](https://cs.vt.edu/Graduate/Courses/GradCourseDescriptions.html) at Virginia Tech.
 
-<figure align="center" class="video_container">
+<figure class="video_container">
   <iframe src="https://www.youtube.com/embed/mLELJDSgC5Q" title="YouTube video player" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
