@@ -8,7 +8,24 @@ The source code for this project can not be made public owning to [VT academic H
 
 ![Shu Bookstore Pic](/bookstore%20-%20category%20page.jpg)
 
-### Tech stack - Vue.js, Java, JDBC, MySQL.
+### Users on this website can
+
+- go to different pages by the navigation icon on top right corner, which unfolds a navigation page. 
+- scan different categories of books.
+- add the desired books to shopping cart. 
+- edit shopping cart items when at shopping cart page. 
+- checkout the shopping cart items. 
+- fill in client shipping information.
+- place order. 
+- get a review of the placed order. 
+- navigate different pages via mannually change the address bar url. 
+- be redirected to unvalid page if the requested page does not exist.
+
+---
+
+### Highlights
+
+> Vue.js, Java, JDBC, MySQL.
 
 The bookstore is designed and implemented by myself from scratch.
 
@@ -20,7 +37,7 @@ The bookstore is designed and implemented by myself from scratch.
 - Hardened the website to handle invalid URL requests by setting up the **Vue Router**, redirecting users to a known bookstore page instead of a not found page.
   ![Mengyi Cartoon Pic](/Live,%20Love,%20Learn.png)
 
-Know more about me by
+Know more about **me** by
 
 - 🙋🏻‍♀️ going to my [Website](https://mengyig.github.io/#)
 - 😁 visiting my [LinkedIn](https://www.linkedin.com/in/mengyi-guo/)
