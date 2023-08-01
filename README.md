@@ -4,6 +4,8 @@
 
 The source code for this project can not be made public owning to [VT academic Honor Code](https://honorsystem.vt.edu/). However, please feel free to reach out if you have any questions. :wink:
 
+A simple walk-through of this bookstore's functionalities is available at [YouTube](https://www.youtube.com/watch?v=mLELJDSgC5Q).
+
 ### Shu E-commerce Bookstore
 
 ![Shu Bookstore Pic](/bookstore%20-%20category%20page.jpg)
